@@ -50,6 +50,7 @@
             // 
             // btn1
             // 
+            btn1.Cursor = Cursors.Hand;
             btn1.Location = new Point(37, 276);
             btn1.Name = "btn1";
             btn1.Size = new Size(65, 48);
@@ -60,6 +61,7 @@
             // 
             // btn9
             // 
+            btn9.Cursor = Cursors.Hand;
             btn9.Location = new Point(179, 168);
             btn9.Name = "btn9";
             btn9.Size = new Size(65, 48);
@@ -70,6 +72,7 @@
             // 
             // btn8
             // 
+            btn8.Cursor = Cursors.Hand;
             btn8.Location = new Point(108, 168);
             btn8.Name = "btn8";
             btn8.Size = new Size(65, 48);
@@ -80,6 +83,7 @@
             // 
             // btn7
             // 
+            btn7.Cursor = Cursors.Hand;
             btn7.Location = new Point(37, 168);
             btn7.Name = "btn7";
             btn7.Size = new Size(65, 48);
@@ -90,6 +94,7 @@
             // 
             // btn6
             // 
+            btn6.Cursor = Cursors.Hand;
             btn6.Location = new Point(179, 222);
             btn6.Name = "btn6";
             btn6.Size = new Size(65, 48);
@@ -100,6 +105,7 @@
             // 
             // btn5
             // 
+            btn5.Cursor = Cursors.Hand;
             btn5.Location = new Point(108, 222);
             btn5.Name = "btn5";
             btn5.Size = new Size(65, 48);
@@ -110,6 +116,7 @@
             // 
             // btn4
             // 
+            btn4.Cursor = Cursors.Hand;
             btn4.Location = new Point(37, 222);
             btn4.Name = "btn4";
             btn4.Size = new Size(65, 48);
@@ -120,6 +127,7 @@
             // 
             // btn3
             // 
+            btn3.Cursor = Cursors.Hand;
             btn3.Location = new Point(179, 276);
             btn3.Name = "btn3";
             btn3.Size = new Size(65, 48);
@@ -130,6 +138,7 @@
             // 
             // btn2
             // 
+            btn2.Cursor = Cursors.Hand;
             btn2.Location = new Point(108, 276);
             btn2.Name = "btn2";
             btn2.Size = new Size(65, 48);
@@ -140,6 +149,7 @@
             // 
             // btn0
             // 
+            btn0.Cursor = Cursors.Hand;
             btn0.Location = new Point(37, 114);
             btn0.Name = "btn0";
             btn0.Size = new Size(65, 48);
@@ -216,6 +226,7 @@
             // 
             // txtvalor
             // 
+            txtvalor.Enabled = false;
             txtvalor.Location = new Point(37, 68);
             txtvalor.Name = "txtvalor";
             txtvalor.Size = new Size(207, 23);
